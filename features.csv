@@ -1,0 +1,18 @@
+,feature,value
+0,mean_intensity,1.99
+1,intensity_variance,3.14
+2,intensity_skewness,0.63
+3,intensity kurtosis,-0.18
+4,median_intensity,1.0
+5,min_intensity,0.0
+6,tenth_percentile,1.0
+7,ninetenth_percentile,4.0
+8,max_intensity,6.0
+9,interquartile_range,3.0
+10,intensity range,6.0
+11,mean_absolute_deviation,1.11
+12,median_absolute_deviation,1.14
+13,coefficient_of_variation,1.58
+14,quartile_coefficient_of_dispersion,0.6
+15,energy,567.0
+16,root_mean_square_intensity,2.66
