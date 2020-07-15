@@ -10,9 +10,10 @@
 8,max_intensity,6.0
 9,interquartile_range,3.0
 10,intensity range,6.0
-11,mean_absolute_deviation,1.11
-12,median_absolute_deviation,1.14
-13,coefficient_of_variation,1.58
-14,quartile_coefficient_of_dispersion,0.6
-15,energy,567.0
-16,root_mean_square_intensity,2.66
+11,mean_absolute_deviation,1.53
+12,robust_mean_absolute_deviation,1.11
+13,median_absolute_deviation,1.14
+14,coefficient_of_variation,1.58
+15,quartile_coefficient_of_dispersion,0.6
+16,energy,567.0
+17,root_mean_square_intensity,2.66
